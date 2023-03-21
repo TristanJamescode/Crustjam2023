@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   sentences:
-  - text: Bitch
+  - text: test 1
     speaker: {fileID: 11400000, guid: 0616a8284a1effb4dab1c35ef619ddee, type: 2}
-  - text: Whore
+  - text: test 2
     speaker: {fileID: 11400000, guid: f7ce15266eda9bc4c8e32477c3c8497f, type: 2}
-  background: {fileID: 21300000, guid: 565945f425146d841b5d0f4cbadc7f7b, type: 3}
-  nextScene: {fileID: 0}
+  background: {fileID: 21300000, guid: e935cf78d9f26934bb159216942b7d29, type: 3}
+  nextScene: {fileID: 11400000, guid: a416ceae8f1c7de43836ec3f32c9b30c, type: 2}
