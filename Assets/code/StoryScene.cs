@@ -12,6 +12,8 @@ public class StoryScene : GameScene
     [System.Serializable]
     public struct Sentence
     {
+        public AudioClip music;
+        public AudioClip sound;
         public string text;
         public Speaker speaker;
     }

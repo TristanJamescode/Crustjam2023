@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   sentences:
-  - text: I love you!
+  - music: {fileID: 8300000, guid: 4dad2e917fb2dd6478ecc783535afa1d, type: 3}
+    sound: {fileID: 0}
+    text: I love you!
     speaker: {fileID: 11400000, guid: 0616a8284a1effb4dab1c35ef619ddee, type: 2}
-  - text: I love you as well Bob!
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: I love you as well Bob!
     speaker: {fileID: 11400000, guid: f7ce15266eda9bc4c8e32477c3c8497f, type: 2}
   background: {fileID: 21300000, guid: 688b2af596694ad44977acc9874f52cc, type: 3}
   nextScene: {fileID: 11400000, guid: a416ceae8f1c7de43836ec3f32c9b30c, type: 2}
