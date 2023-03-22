@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   sentences:
-  - music: {fileID: 0}
+  - music: {fileID: 8300000, guid: 7b045048910b16e4ebf9650058fdf8a1, type: 3}
     sound: {fileID: 0}
     text: Bitch
     speaker: {fileID: 11400000, guid: 0616a8284a1effb4dab1c35ef619ddee, type: 2}
