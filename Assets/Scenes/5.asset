@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  sentences:
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: But sadly it was only just the mailman.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: Good Morning, just dropped by to bring you your mail.
+    speaker: {fileID: 11400000, guid: 2516cff898682f141ab39185bf009107, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: You take the mail out of his hand and see that it's a bunch of......
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: OVERDUE TAXES!!!!!
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: Alright, I'll better get going, see you again.
+    speaker: {fileID: 11400000, guid: 2516cff898682f141ab39185bf009107, type: 2}
+  background: {fileID: 21300000, guid: 0be6cfc77fd960c48a4b50e75575f3a0, type: 3}
+  nextScene: {fileID: 11400000, guid: 202c41e76a8d412468fa97b0d60e353d, type: 2}

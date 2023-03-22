@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  sentences:
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: f7f601d59763a4c4c9bc130d62536d73, type: 3}
+    text: ANDY ARMSTRONG!
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: How's it going sweetheart, ready for our date?
+    speaker: {fileID: 11400000, guid: 915017bd45e2e0a4d9ea5a17959dfe9c, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: You too star struck to even breathe.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: Before you know it, it was like your body was possessed
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: and automatically said with a gleeful wide open smile a simple "YES".
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  background: {fileID: 21300000, guid: 80d8d21108c40df429637cbb0bcb2b41, type: 3}
+  nextScene: {fileID: 0}

@@ -17,6 +17,11 @@ public class MainMenu : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false; //for the unity player
     }
 
+    public void Backtothemainmenufuckboy()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1); //loads the next scene (aka the main game)
+    }
+
     //// Start is called before the first frame update
     //void Start()
     //{

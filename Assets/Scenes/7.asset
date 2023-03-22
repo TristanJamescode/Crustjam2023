@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  sentences:
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 474e6e63c681c2e43997512f06248398, type: 3}
+    text: You go back to the kitchen with a sad look on your face.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: There are three certainties in life....
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: The beginning.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: The end.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: And taxes.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: But sadly, none of them are Andy.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 99fc9d46db920f746a324d57bb724926, type: 3}
+    text: You gave out a depressed sigh as you continue to finish your cereal.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 0176d5cfdc299b14cbeed9577876ad1b, type: 3}
+    text: As you sadly finish your cereal, you wonder if Andy forgot about you.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 0176d5cfdc299b14cbeed9577876ad1b, type: 3}
+    text: A tear rolls down you eye as you finish your last bite.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: a6801c2c5c5e367488d6589a48ef41ee, type: 3}
+    text: '             '
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: But alas, you heard the door bell rang again.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 474e6e63c681c2e43997512f06248398, type: 3}
+    text: With regained hopes & dreams you rushed to your door again.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  background: {fileID: 21300000, guid: 565945f425146d841b5d0f4cbadc7f7b, type: 3}
+  nextScene: {fileID: 11400000, guid: 32546d8549da4c04b93923355aa49556, type: 2}

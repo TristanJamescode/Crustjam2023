@@ -13,13 +13,26 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   sentences:
-  - music: {fileID: 8300000, guid: 4dad2e917fb2dd6478ecc783535afa1d, type: 3}
-    sound: {fileID: 0}
-    text: I love you!
-    speaker: {fileID: 11400000, guid: 0616a8284a1effb4dab1c35ef619ddee, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: f1cc36f747f3f92448beaa9d80ff6418, type: 3}
+    text: '*rises up*'
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   - music: {fileID: 0}
     sound: {fileID: 0}
-    text: I love you as well Bob!
-    speaker: {fileID: 11400000, guid: f7ce15266eda9bc4c8e32477c3c8497f, type: 2}
+    text: You get up from the bed fully refreshed and ready to start the day!
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: You want to prepare some breakfest for yourself, so you'll power yourself
+      up
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: for your day with the famous big shot at college........
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: ANDY ARMSTRONG!
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   background: {fileID: 21300000, guid: 688b2af596694ad44977acc9874f52cc, type: 3}
-  nextScene: {fileID: 11400000, guid: a416ceae8f1c7de43836ec3f32c9b30c, type: 2}
+  nextScene: {fileID: 11400000, guid: dbcaa6500020c3f40a6253a322a7d818, type: 2}
