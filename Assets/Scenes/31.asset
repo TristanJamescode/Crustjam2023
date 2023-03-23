@@ -10,20 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
-  m_Name: festivalend
+  m_Name: 31
   m_EditorClassIdentifier: 
   sentences:
   - music: {fileID: 0}
-    sound: {fileID: 8300000, guid: cfc5a282755d06444b09d49d5412687d, type: 3}
-    text: Boy I'm beat, wanna go watch a film?
-    speaker: {fileID: 11400000, guid: 915017bd45e2e0a4d9ea5a17959dfe9c, type: 2}
-  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: f1cc36f747f3f92448beaa9d80ff6418, type: 3}
+    text: You'll definietly have good dreams tonight for sure.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 8300000, guid: 425d98bc6ee207044839a9a41b1ad25c, type: 3}
     sound: {fileID: 0}
-    text: It seems that both you and Andy are both tired.
+    text: '       '
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   - music: {fileID: 0}
     sound: {fileID: 0}
-    text: Why not end the night with a nice film?
+    text: You got the good ending, congrats!
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
-  background: {fileID: 21300000, guid: 25e4db7e7d3d5bf4d90ecfd1bca994ac, type: 3}
-  nextScene: {fileID: 11400000, guid: 4a40b6bc6d0e80b4eafe5c5dec2a58f1, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: Feel free to quit.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  background: {fileID: 21300000, guid: 81b627c480a6fd44abbfc62c7f3157e1, type: 3}
+  nextScene: {fileID: 0}

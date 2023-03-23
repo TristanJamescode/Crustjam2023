@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
-  m_Name: 19
+  m_Name: 23
   m_EditorClassIdentifier: 
   sentences:
   - music: {fileID: 0}
@@ -62,4 +62,4 @@ MonoBehaviour:
     text: '             '
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   background: {fileID: 21300000, guid: 81b627c480a6fd44abbfc62c7f3157e1, type: 3}
-  nextScene: {fileID: 11400000, guid: 4f9933160448dd54fab12c8fa1fe37d1, type: 2}
+  nextScene: {fileID: 11400000, guid: 2acc35f2699ff6f40bb3fcb947af9e38, type: 2}
