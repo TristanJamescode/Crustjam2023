@@ -11,6 +11,16 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loads the next scene (aka the main game)
     }
 
+    public void Credits()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); //loads the next scene (aka the main game)
+    }
+
+    public void Fuckitgoback()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2); //loads the next scene (aka the main game)
+    }
+
     public void QuitGame()
     {
         Application.Quit(); //for the actual game
