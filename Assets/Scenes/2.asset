@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   sentences:
-  - music: {fileID: 0}
+  - music: {fileID: 8300000, guid: 9c3ce9cb196b8d44b93612a70215d58a, type: 3}
     sound: {fileID: 8300000, guid: f1cc36f747f3f92448beaa9d80ff6418, type: 3}
-    text: '*rises up*'
+    text: '       '
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   - music: {fileID: 0}
     sound: {fileID: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  sentences:
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 474e6e63c681c2e43997512f06248398, type: 3}
+    text: '          '
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: You get back downstairs to once again greet Andy.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: I'm gonna treat you right sugarpuff, you won't be dissapointed.
+    speaker: {fileID: 11400000, guid: 915017bd45e2e0a4d9ea5a17959dfe9c, type: 2}
+  background: {fileID: 21300000, guid: 80d8d21108c40df429637cbb0bcb2b41, type: 3}
+  nextScene: {fileID: 11400000, guid: cbce4e421bb95eb4daa3f13cc2582596, type: 2}

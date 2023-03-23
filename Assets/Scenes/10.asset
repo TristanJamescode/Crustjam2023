@@ -14,12 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - music: {fileID: 0}
-    sound: {fileID: 0}
-    text: you ran upstaris to your bedroom wondering what to wear?
+    sound: {fileID: 8300000, guid: 474e6e63c681c2e43997512f06248398, type: 3}
+    text: You ran upstaris to your bedroom wondering what to wear?
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   - music: {fileID: 0}
     sound: {fileID: 0}
-    text: this is where you choose the choices!
+    text: You try to make a decent outfit for yourself.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: But you don't know what to wear, how about you decide?
     speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
   background: {fileID: 21300000, guid: 688b2af596694ad44977acc9874f52cc, type: 3}
-  nextScene: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: 7f3d5ab0661142f438aeeb7fff0c48b8, type: 2}

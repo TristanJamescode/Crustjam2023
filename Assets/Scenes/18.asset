@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc21dca92192fb4a8d4db8bb54fbcb7, type: 3}
+  m_Name: 18
+  m_EditorClassIdentifier: 
+  sentences:
+  - music: {fileID: 0}
+    sound: {fileID: 8300000, guid: 8e45dae48515bf341a77bfa963906132, type: 3}
+    text: How about a day at the theme park my love?
+    speaker: {fileID: 11400000, guid: 915017bd45e2e0a4d9ea5a17959dfe9c, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: You're too shocked to understand how Andy knew you liked theme parks.
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: with a shy whimper behind a crooked smile, you simply say "I'd love that".
+    speaker: {fileID: 11400000, guid: b01cedcdb656afa4ba7a30162da4a2bb, type: 2}
+  - music: {fileID: 0}
+    sound: {fileID: 0}
+    text: Which ride would you like to go on first? my love?
+    speaker: {fileID: 11400000, guid: 915017bd45e2e0a4d9ea5a17959dfe9c, type: 2}
+  background: {fileID: 21300000, guid: fc4af3836971a7d4caa1281ebc153235, type: 3}
+  nextScene: {fileID: 11400000, guid: 66ce855d6f22ba4419cbe3a3b6b783a1, type: 2}

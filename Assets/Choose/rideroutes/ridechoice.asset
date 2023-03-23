@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2058b294169cf949a27e811f49a4b17, type: 3}
+  m_Name: ridechoice
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Roller Coaster
+    nextScene: {fileID: 11400000, guid: 17f945eac67a49e478575e94865f92ae, type: 2}
+  - text: Ferris Wheel
+    nextScene: {fileID: 11400000, guid: 4107f16b1c5706e4a8aa8d86a02ab514, type: 2}
+  - text: bumper cars
+    nextScene: {fileID: 11400000, guid: abe52ebc9a518d84a8a6d36e51b2917b, type: 2}

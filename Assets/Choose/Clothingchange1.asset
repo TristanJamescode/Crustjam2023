@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2058b294169cf949a27e811f49a4b17, type: 3}
+  m_Name: Clothingchange1
+  m_EditorClassIdentifier: 
+  labels:
+  - text: A red hat
+    nextScene: {fileID: 11400000, guid: 6d2db4f9ae9167d4fbbcf46c2cf1249e, type: 2}
+  - text: A blue hat
+    nextScene: {fileID: 11400000, guid: 6d2db4f9ae9167d4fbbcf46c2cf1249e, type: 2}
+  - text: A green hat
+    nextScene: {fileID: 11400000, guid: 6d2db4f9ae9167d4fbbcf46c2cf1249e, type: 2}
